@@ -1,0 +1,5 @@
+id: 668
+icon: cog
+type: Client-side Mods
+title: In-Game Server Switch
+version: 1
