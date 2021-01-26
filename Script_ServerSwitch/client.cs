@@ -12,7 +12,7 @@ function OpenServerList(%val)
     if(!%val)
         return;
 
-    canvas.pushDialog(JoinServerGUI);
+    canvas.pushDialog(JoinServerGuiBs);
 }
 
 package ServerSwitch
